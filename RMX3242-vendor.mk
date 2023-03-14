@@ -46,4 +46,5 @@ PRODUCT_PACKAGES += \
     mediatek-ims-extension-plugin \
     mediatek-telecom-common \
     mediatek-telephony-base \
-    mediatek-telephony-common
+    mediatek-telephony-common \
+    oplus-framework
