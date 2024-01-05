@@ -76,9 +76,3 @@ dex_import {
 	jars: ["proprietary/framework/mediatek-telephony-common.jar"],
 }
 
-dex_import {
-	name: "oplus-framework",
-	owner: "realme",
-	jars: ["proprietary/framework/oplus-framework.jar"],
-}
-
